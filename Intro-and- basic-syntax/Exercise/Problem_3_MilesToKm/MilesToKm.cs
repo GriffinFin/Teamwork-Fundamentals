@@ -6,8 +6,8 @@ namespace Project3_MilesToKm
     {
         static void Main(string[] args)
         {
-            double mile = double.Parse(Console.ReadLine());
-            double res = mile * 1.60934;
+            double miles = double.Parse(Console.ReadLine());
+            double res = miles * 1.60934;
             Console.WriteLine("{0:f2}", res);
         }
     }
