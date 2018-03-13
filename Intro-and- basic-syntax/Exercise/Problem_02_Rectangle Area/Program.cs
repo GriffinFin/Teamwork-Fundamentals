@@ -1,4 +1,5 @@
-﻿using System;
+﻿//CONFIRMED from cleopa8 - username in GitHub and cleopa - username in SoftUni
+using System;
 
 namespace Problem_02_Rectangle_Area
 {
